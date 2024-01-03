@@ -12,6 +12,8 @@
 - jupyterlab 4.0.10
 
 ## install
+1. Poetry 설치: [참고](https://python-poetry.org/docs/)
+2. 의존성 설치
 ```bash
 poetry install
 ```
