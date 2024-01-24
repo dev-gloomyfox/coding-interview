@@ -20,5 +20,6 @@ poetry install
 
 ## run
 ```bash
+poetry shell
 jupyter lab
 ```
